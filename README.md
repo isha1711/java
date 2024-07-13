@@ -58,3 +58,26 @@ Is it always necessary to create objects from class?
 Are class and structure the same? If not, what's the difference between a class and a structure?
 Which among the following operators can be used to show Polymorphism in CPP?
 Which among the following does not show or cannot be used, to show Polymorphism?
+
+
+Dsa questions:- 
+
+Describe the types of Data Structures?
+What is a Linear Data Structure? Name a few examples.
+What is a multidimensional array?
+How are the elements of a 2D array stored in the memory?
+What is a linked list Data Structure?
+Describe the types of Data Structures.
+Describe the types of Data Structures.
+What Is Sorting In Data Structure, And Its Types?
+Why do we use queues?
+Can we apply Binary search algorithm to a sorted Linked list?
+How quick sort works?
+What is selection sort?
+What Are The Disadvantages Of Representing A Stack Or Queue By A Linked List?
+Major Types Of Sorting Algorithms
+How would you remove duplicates from a given array in Java?
+Given an integer “n,” write a function to compute the nth Fibonacci number
+How would you detect and remove a loop in a linked list?
+How do you detect if two integers have opposite signs?
+What sort of data structure allows you to easily manipulate elements in a connected list?
