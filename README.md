@@ -81,3 +81,36 @@ Given an integer “n,” write a function to compute the nth Fibonacci number
 How would you detect and remove a loop in a linked list?
 How do you detect if two integers have opposite signs?
 What sort of data structure allows you to easily manipulate elements in a connected list?
+What is a data structure?
+What are the basic operations that can be performed on a stack?
+Explain the difference between an array and a linked list.
+What is the time complexity of searching, inserting, and deleting operations in a binary search tree (BST)?
+What is a hash table and how does it work?
+What is the difference between breadth-first search (BFS) and depth-first search (DFS)?
+What is dynamic programming? Provide an example.
+Explain the concept of time complexity and space complexity.
+What is a sorting algorithm? Name a few sorting algorithms and compare their time complexities.
+What are the advantages of using a linked list over an array?
+What is a queue? Explain its operations and give an example of its application.
+Explain the concept of recursion. Provide an example of a problem that can be solved using recursion.
+What is a tree data structure? Describe its components and give examples of different types of trees.
+What are the basic operations on a heap data structure?
+Explain the difference between a graph and a tree.
+Explain the difference between a graph and a tree.
+What is a linked list? How is it different from an array?
+Discuss the difference between a stack and a queue.
+https://www.youtube.com/watch?v=p5TDnxAYAZY&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=9
+https://www.youtube.com/watch?v=ZHCP9vFOJiU&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=12
+https://www.youtube.com/watch?v=TWMCMvfEAv4&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=13
+https://www.youtube.com/watch?v=ewCc7O2K5SM&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=15
+https://www.youtube.com/watch?v=R_7qJzAWrMg&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=17
+https://www.youtube.com/watch?v=41lXYJID3OQ&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=19
+https://www.youtube.com/watch?v=63HJ2-jV6Mk&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=21
+https://www.youtube.com/watch?v=-n2rVJE4vto&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=22
+https://www.youtube.com/watch?v=MD3mFgFwqBE&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=23
+https://www.youtube.com/watch?v=sN1oUrR7foM&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=25
+https://www.youtube.com/watch?v=UbAEP7P0vfk&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=38
+https://www.youtube.com/watch?v=KqTJ5MAUj80&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=42
+https://www.youtube.com/watch?v=LwYQo8mVPBs&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=45
+https://www.youtube.com/watch?v=ByLlEk7zmyw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=48
+https://www.geeksforgeeks.org/cpp-coding-interview-questions-and-answers/
