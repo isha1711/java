@@ -1,26 +1,26 @@
-What are the main features of OOPs?
-Compile-Time Polymorphism
-Runtime Polymorphism
-What are access specifiers? What is their significance in OOPs?
-What are the advantages and disadvantages of OOPs?
-What other paradigms of programming exist besides OOPs?
-What is the difference between Structured Programming and Object Oriented Programming?
-What are the different types of Polymorphism?
-What is an interface?
+What are the main features of OOPs? .
+Compile-Time Polymorphism.
+Runtime Polymorphism.
+What are access specifiers? What is their significance in OOPs?.
+What are the advantages and disadvantages of OOPs?.
+What other paradigms of programming exist besides OOPs?.
+What is the difference between Structured Programming and Object Oriented Programming?.
+What are the different types of Polymorphism?.
+What is an interface?.
 How is an abstract class different from an interface?
-How much memory does a class occupy?
-Is it always necessary to create objects from class?
-What is the difference between a structure and a class in C++?
-What are the various types of constructors in C++?
+How much memory does a class occupy?.
+Is it always necessary to create objects from class?.
+What is the difference between a structure and a class in C++?.
+What are the various types of constructors in C++?.
 What is the virtual function?
 What is pure virtual function?
-What is object-oriented programming (OOP)?
-What are the advantages of using OOP?
-What is encapsulation?
-What is inheritance?
-What is polymorphism?
-What is abstraction?
-What is a class and an object?
+What is object-oriented programming (OOP)?.
+What are the advantages of using OOP?.
+What is encapsulation?.
+What is inheritance?.
+What is polymorphism?.
+What is abstraction?.
+What is a class and an object?.
 What is the difference between abstraction and encapsulation?
 How does polymorphism relate to inheritance?
 Give an example of a real-world scenario where OOP principles would be beneficial.
@@ -44,20 +44,20 @@ Explain the difference between inheritance and composition.
 What is the difference between method overloading and method overriding?
 What is the difference between method hiding and method overriding in C#?
 What is the difference between synchronous and asynchronous programming in C#?
-What are some major Object Oriented Programming languages?
-What are some other programming paradigms other than OOPs?
-What are the main features of OOPs?
-What are the various types of inheritance?
-Explain Inheritance with an example?
+What are some major Object Oriented Programming languages?.
+What are some other programming paradigms other than OOPs?.
+What are the main features of OOPs?.
+What are the various types of inheritance?.
+Explain Inheritance with an example?.
 How is an abstract class different from an interface?
-What is the difference between overloading and overriding?
-What is meant by exception handling?
-What is meant by Garbage Collection in OOPs world?
-Can we run a Java application without implementing the OOPs concept?
-Is it always necessary to create objects from class?
-Are class and structure the same? If not, what's the difference between a class and a structure?
-Which among the following operators can be used to show Polymorphism in CPP?
-Which among the following does not show or cannot be used, to show Polymorphism?
+What is the difference between overloading and overriding?.
+What is meant by exception handling?.
+What is meant by Garbage Collection in OOPs world?.
+Can we run a Java application without implementing the OOPs concept?.
+Is it always necessary to create objects from class?.
+Are class and structure the same? If not, what's the difference between a class and a structure?.
+Which among the following operators can be used to show Polymorphism in CPP?.
+Which among the following does not show or cannot be used, to show Polymorphism?.
 
 
 Dsa questions:- 
